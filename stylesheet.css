@@ -1,0 +1,35 @@
+.a{
+	height: 150px;
+	width: 250px;
+	border: 20px solid yellow;
+    padding:20px 50px 50px 50px;
+    margin:20px 20px 20px 20px;
+    text-align: center;
+    background-color: white;
+}
+/* Esta es otra manera de cuadrarlo pero un tanto más complicado xD
+
+.b{
+	height: 150px;
+	width: 250px;
+	border: 20px solid yellow;
+    padding:20px 30px 55px 30px;
+    margin-top:20px;
+    margin-right:500px;
+    margin-bottom:700px;
+    margin-left:700px;
+    text-align: left;
+    background-color: white;
+}*/
+.b{
+    height: 150px;
+    width: 250px;
+    border: 20px solid yellow;
+    padding:20px 30px 55px 30px;
+    margin-top:auto;
+    margin-right:auto;
+    margin-bottom:auto;
+    margin-left:auto;
+    text-align: left;
+    background-color: white;
+
